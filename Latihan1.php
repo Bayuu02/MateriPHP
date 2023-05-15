@@ -6,4 +6,4 @@
 <?php echo "<p>Hello Word</p>"; ?> 
 </body> 
 </html> 
-latihan1.p
+
